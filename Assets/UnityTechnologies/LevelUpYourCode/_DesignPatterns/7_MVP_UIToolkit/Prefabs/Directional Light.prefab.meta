@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a46b800ffd1b8694b8fdc41012af27b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/Prefabs/Directional
+    Light.prefab
+  uploadId: 678909

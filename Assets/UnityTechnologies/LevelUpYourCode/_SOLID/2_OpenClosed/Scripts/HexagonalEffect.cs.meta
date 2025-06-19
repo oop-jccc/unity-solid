@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24d15438cc97a92489afa47b5ddea8ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/2_OpenClosed/Scripts/HexagonalEffect.cs
+  uploadId: 678909

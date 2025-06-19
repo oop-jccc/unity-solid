@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 46ccd92a04b4589409c1fa6038fa381d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/Utilities/DisableOnLoad.cs
+  uploadId: 678909

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1dae10bf1c3249718f7c8a7dfc9e85d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/6_Observer/Scripts/ExampleUsage/AudioObserver.cs
+  uploadId: 678909

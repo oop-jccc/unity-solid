@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 622f20260897a9248a84da677c26965a
+timeCreated: 1440247802
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/ShooterBg.mat
+  uploadId: 678909

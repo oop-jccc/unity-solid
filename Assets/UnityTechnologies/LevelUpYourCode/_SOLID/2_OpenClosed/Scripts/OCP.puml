@@ -1,0 +1,61 @@
+﻿@startuml
+title Area-of-Effect – Class Diagram
+
+skinparam classAttributeIconSize 0
+
+abstract class AreaOfEffect {
+    +ParticleSystem EffectParticleSystem
+    +AudioSource    EffectAudioSource
+    +AudioClip      EffectSoundFX
+    +float          TotalArea
+    --
+    +float  CalculateArea()
+    +void   PlayEffect()
+    +void   ShowAreaText()
+    +void   ShowLabelText(string)
+}
+
+class CircleEffect {
+    -float m_Radius
+    +float Radius
+    --
+    +float CalculateArea()
+}
+
+class RectangleEffect {
+    -float m_Width
+    -float m_Height
+    --
+    +float CalculateArea()
+}
+
+class TriangularEffect {
+    -float m_SideLength
+    --
+    +float CalculateArea()
+}
+
+class HexagonalEffect {
+    -float m_SideLength
+    --
+    +float CalculateArea()
+}
+
+class EffectTrigger {
+    -AreaOfEffect m_Effect
+    -float        m_Cooldown
+    -float        m_LastEffectTime
+    --
+    +void OnTriggerEnter(Collider)
+    +void OnTriggerStay(Collider)
+    +void OnTriggerExit(Collider)
+    -void PlayEffect(Collider)
+}
+
+AreaOfEffect <|-- CircleEffect
+AreaOfEffect <|-- RectangleEffect
+AreaOfEffect <|-- TriangularEffect
+AreaOfEffect <|-- HexagonalEffect
+
+EffectTrigger --> AreaOfEffect : «serialize\nin Inspector»
+@enduml

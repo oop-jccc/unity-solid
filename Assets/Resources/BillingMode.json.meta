@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53276260ba5584839b0a50c0545a9ddb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/Resources/BillingMode.json
+  uploadId: 678909

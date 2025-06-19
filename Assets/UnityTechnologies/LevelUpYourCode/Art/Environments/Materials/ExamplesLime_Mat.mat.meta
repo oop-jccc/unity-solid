@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c24bafebfdd8d5409c9b756aad7b191
+timeCreated: 1439543402
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/ExamplesLime_Mat.mat
+  uploadId: 678909

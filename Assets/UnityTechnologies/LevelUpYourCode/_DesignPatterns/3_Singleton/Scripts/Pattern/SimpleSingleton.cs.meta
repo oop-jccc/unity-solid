@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a3a8ea6cee83478b88c2d8278a4a545
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/3_Singleton/Scripts/Pattern/SimpleSingleton.cs
+  uploadId: 678909

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e2731e3ed864404a8fb4df3494fbb04
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/6_Observer/Prefabs/SceneCamera.prefab
+  uploadId: 678909

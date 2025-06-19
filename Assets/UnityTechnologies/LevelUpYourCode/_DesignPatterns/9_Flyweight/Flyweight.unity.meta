@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f6a9e720ab599643bf7d5a656dcee0e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/9_Flyweight/Flyweight.unity
+  uploadId: 678909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79887ea0aa2230a4ba4a4ebccde1280b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/ButtonData/SolidMenu/2-4_InterfaceSegregation_Data.asset
+  uploadId: 678909

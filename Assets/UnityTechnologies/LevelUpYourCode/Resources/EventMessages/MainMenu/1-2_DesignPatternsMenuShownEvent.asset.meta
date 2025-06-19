@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfb102e5bbdef3043baf873c506fc166
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/EventMessages/MainMenu/1-2_DesignPatternsMenuShownEvent.asset
+  uploadId: 678909

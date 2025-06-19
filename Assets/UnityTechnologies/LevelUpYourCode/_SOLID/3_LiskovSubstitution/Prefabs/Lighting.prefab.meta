@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cd18882795431549a0f5f6286163b88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Prefabs/Lighting.prefab
+  uploadId: 678909

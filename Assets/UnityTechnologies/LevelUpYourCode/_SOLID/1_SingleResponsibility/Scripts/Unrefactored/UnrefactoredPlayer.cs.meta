@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86d0434e7a6ce42b395270031a1b99b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/1_SingleResponsibility/Scripts/Unrefactored/UnrefactoredPlayer.cs
+  uploadId: 678909

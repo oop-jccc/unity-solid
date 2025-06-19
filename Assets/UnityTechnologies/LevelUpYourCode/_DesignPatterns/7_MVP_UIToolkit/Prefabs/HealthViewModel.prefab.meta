@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 507673d92da44264ca6f5e100a6949d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/Prefabs/HealthViewModel.prefab
+  uploadId: 678909

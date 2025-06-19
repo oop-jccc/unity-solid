@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6fc4c908a9e8ce4391a839f44286dc7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/LiskovSubstitution.unity
+  uploadId: 678909

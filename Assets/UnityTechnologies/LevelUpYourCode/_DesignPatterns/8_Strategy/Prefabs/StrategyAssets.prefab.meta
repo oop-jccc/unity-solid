@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 153d56fb407385243a8e9e80bae6b8ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/8_Strategy/Prefabs/StrategyAssets.prefab
+  uploadId: 678909

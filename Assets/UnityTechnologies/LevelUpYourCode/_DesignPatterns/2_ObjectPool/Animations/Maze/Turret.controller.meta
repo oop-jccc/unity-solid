@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7b3a5fb65d23a840a2630c82d72c083
+timeCreated: 1445260533
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/2_ObjectPool/Animations/Maze/Turret.controller
+  uploadId: 678909

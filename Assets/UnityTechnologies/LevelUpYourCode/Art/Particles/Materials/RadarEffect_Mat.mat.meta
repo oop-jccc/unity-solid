@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 231a5cc0466110040ab3f3eebd341e5f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Particles/Materials/RadarEffect_Mat.mat
+  uploadId: 678909

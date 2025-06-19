@@ -1,0 +1,95 @@
+﻿@startuml
+skinparam  style              strictuml
+skinparam  classAttributeIconSize 0
+skinparam  class {
+    BackgroundColor #FDFDFD
+    BorderColor     Black
+}
+
+/' ───────────────────────────────
+  ABSTRACT BASE CLASS
+  ─────────────────────────────── '/
+abstract class PowerUp {
+    +m_Duration : float
+    +ApplyEffect(player : GameObject)
+    -- Unity callbacks --
+    +OnTriggerEnter(other : Collider)
+}
+
+/' ───────────────────────────────
+  POWER-UP VARIANTS
+  ─────────────────────────────── '/
+class SpeedBoost {
+    -m_SpeedMultiplier : float
+    +ApplyEffect(player : GameObject)
+}
+class HealthBoost {
+    -m_HealValue : float
+    +ApplyEffect(player : GameObject)
+}
+class InvulnerabilityPowerUp {
+    +ApplyEffect(player : GameObject)
+}
+
+PowerUp <|-- SpeedBoost
+PowerUp <|-- HealthBoost
+PowerUp <|-- InvulnerabilityPowerUp
+
+/' SpeedBoost temporarily modifies the player’s speed '/
+SpeedBoost ..> SpeedModifier  : «uses»
+
+/' HealthBoost heals the player '/
+HealthBoost ..> Health        : «uses»
+
+/' InvulnerabilityPowerUp toggles invulnerability '/
+InvulnerabilityPowerUp ..> Invulnerability : «uses»
+
+/' ───────────────────────────────
+  RUNTIME COMPONENTS ON PLAYER
+  ─────────────────────────────── '/
+class SpeedModifier {
+    +ModifySpeed(mult : float, duration : float)
+}
+
+class Invulnerability {
+    -m_Duration : float
+    +Duration : float
+    +Activate(duration : float)
+}
+
+Invulnerability --> Health    : «requires» 1
+
+class Health {
+    -m_MaxHealth     : float
+    -m_CurrentHealth : float
+    +IsInvulnerable  : bool
+    +Heal(amount : float)
+    +TakeDamage(amount : float)
+    +Died : UnityEvent
+    +HealthChanged : UnityEvent<float>
+}
+
+/' ───────────────────────────────
+  UI
+  ─────────────────────────────── '/
+class HealthBar {
+    -m_Health       : Health
+    -m_HealthSlider : Slider
+    -m_HealthLabel  : Text
+    +UpdateHealthBar(value : float)
+}
+
+HealthBar ..> Health  : «observes»
+HealthBar ..> Slider
+HealthBar ..> Text
+
+/' ───────────────────────────────
+  MISCELLANEOUS
+  ─────────────────────────────── '/
+class SceneReset {
+    -m_PrefabToLoad   : GameObject
+    -m_PrefabInstance : GameObject
+    +Update()
+}
+
+@enduml

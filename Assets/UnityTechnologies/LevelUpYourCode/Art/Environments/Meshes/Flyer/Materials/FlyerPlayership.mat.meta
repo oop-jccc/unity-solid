@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c71a6a0a66efc148bc19712e3e91e79
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Meshes/Flyer/Materials/FlyerPlayership.mat
+  uploadId: 678909

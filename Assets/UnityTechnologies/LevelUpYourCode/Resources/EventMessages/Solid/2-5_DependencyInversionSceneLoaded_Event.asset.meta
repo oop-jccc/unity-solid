@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bf477caba0626144969364af57ab0ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/EventMessages/Solid/2-5_DependencyInversionSceneLoaded_Event.asset
+  uploadId: 678909

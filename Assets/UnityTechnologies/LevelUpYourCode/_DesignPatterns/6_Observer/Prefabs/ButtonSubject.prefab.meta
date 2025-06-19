@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03f8b22a6d00a4259b5359431417e415
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/6_Observer/Prefabs/ButtonSubject.prefab
+  uploadId: 678909

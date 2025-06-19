@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9060fed1225204d2d9b8490a23877b39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP/Scripts/ExampleUsage/ClickDamage.cs
+  uploadId: 678909

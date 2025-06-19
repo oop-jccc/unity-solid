@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 889eb338f1f3e48289bf1e74b9d19684
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/Utilities/DontDestroyOnLoad.cs
+  uploadId: 678909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4a9626fe72708448ae53fd71c675bbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/ButtonData/DesignPatternsMenu/3-05_State_Data.asset
+  uploadId: 678909

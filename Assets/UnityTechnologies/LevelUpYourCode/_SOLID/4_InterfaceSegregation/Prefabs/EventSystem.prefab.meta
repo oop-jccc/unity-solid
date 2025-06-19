@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aab127d150e61044dabc989ab0d5c571
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/4_InterfaceSegregation/Prefabs/EventSystem.prefab
+  uploadId: 678909

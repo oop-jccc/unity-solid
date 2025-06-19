@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 785935fe7f9083d46ba3fb112e27ead5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/4_Command/Scripts/ExampleUsage/PlayerPath.cs
+  uploadId: 678909

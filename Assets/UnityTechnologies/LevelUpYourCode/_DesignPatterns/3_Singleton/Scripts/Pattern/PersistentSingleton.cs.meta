@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 45e0dcc6b8cdae746a4f9c1a00c58212
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/3_Singleton/Scripts/Pattern/PersistentSingleton.cs
+  uploadId: 678909

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b84c4c9fe3532cf4e93da861a56900ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/2_OpenClosed/OpenClosed.unity
+  uploadId: 678909

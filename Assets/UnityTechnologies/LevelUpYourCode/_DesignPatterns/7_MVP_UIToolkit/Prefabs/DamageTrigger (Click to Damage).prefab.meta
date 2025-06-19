@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a62c6d07822938244bf4034cd48a92a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/Prefabs/DamageTrigger
+    (Click to Damage).prefab
+  uploadId: 678909

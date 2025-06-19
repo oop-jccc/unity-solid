@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fc7ee4ca481cd647b0f305d7ec9bc92
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/2_OpenClosed/Prefabs/Bounds.prefab
+  uploadId: 678909

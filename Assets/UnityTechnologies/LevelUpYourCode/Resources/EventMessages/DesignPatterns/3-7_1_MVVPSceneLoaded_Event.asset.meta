@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f9195889f76fd54aac097fc3486c88d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/EventMessages/DesignPatterns/3-7_1_MVVPSceneLoaded_Event.asset
+  uploadId: 678909

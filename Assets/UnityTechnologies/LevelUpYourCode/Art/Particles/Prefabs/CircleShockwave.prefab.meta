@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c3c58b631002bb4288d8e750dbcb795
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Particles/Prefabs/CircleShockwave.prefab
+  uploadId: 678909

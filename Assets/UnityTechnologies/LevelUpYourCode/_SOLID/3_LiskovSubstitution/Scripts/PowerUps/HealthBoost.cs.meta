@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d4e8c4fbf3294b789b5037fcc462b9e7
+timeCreated: 1709681935
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Scripts/PowerUps/HealthBoost.cs
+  uploadId: 678909

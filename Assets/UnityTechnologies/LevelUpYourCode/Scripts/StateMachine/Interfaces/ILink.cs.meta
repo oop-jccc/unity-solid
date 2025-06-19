@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fc33024e205042c6a2136ac64b2cc127
+timeCreated: 1662959119
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/StateMachine/Interfaces/ILink.cs
+  uploadId: 678909

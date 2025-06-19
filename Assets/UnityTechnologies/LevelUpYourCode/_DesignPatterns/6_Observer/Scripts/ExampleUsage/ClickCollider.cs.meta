@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ba780f27cff084540ba28df6ffe07411
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/6_Observer/Scripts/ExampleUsage/ClickCollider.cs
+  uploadId: 678909

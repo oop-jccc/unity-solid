@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe45b3c802b93ab48b46fb88636e2cde
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/4_InterfaceSegregation/Prefabs/InterfaceSegregationAssets.prefab
+  uploadId: 678909

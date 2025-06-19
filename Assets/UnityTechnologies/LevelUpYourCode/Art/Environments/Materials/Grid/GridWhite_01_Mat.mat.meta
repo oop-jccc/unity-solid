@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbf898c9f9c4a2d46aa6336e23caeb61
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/Grid/GridWhite_01_Mat.mat
+  uploadId: 678909

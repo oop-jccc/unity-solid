@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19bb287869962644890d8e7cfb5d8091
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/Prefabs/AudioManager.prefab
+  uploadId: 678909

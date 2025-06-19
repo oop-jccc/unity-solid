@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 691516f9e24f08c4498a0a000eac8999
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scenes/Default Lighting Settings.lighting
+  uploadId: 678909

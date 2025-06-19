@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 66996fbb38ec4444b93d79f4724cab8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/5_State/Scripts/ExampleUsage/PlayerStateView.cs
+  uploadId: 678909

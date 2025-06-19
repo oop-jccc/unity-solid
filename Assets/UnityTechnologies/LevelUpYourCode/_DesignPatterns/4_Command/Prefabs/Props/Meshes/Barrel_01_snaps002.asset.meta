@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f860065327079442b9d4dcce5eafdee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/4_Command/Prefabs/Props/Meshes/Barrel_01_snaps002.asset
+  uploadId: 678909

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f2348bd6b4371d4ca7a221cfff014e2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/10_DirtyFlag/DirtyFlag.unity
+  uploadId: 678909

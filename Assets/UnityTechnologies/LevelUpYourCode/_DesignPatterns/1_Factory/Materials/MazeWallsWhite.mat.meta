@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bc5002aa19e4e647bd0672f2c59f6c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/1_Factory/Materials/MazeWallsWhite.mat
+  uploadId: 678909

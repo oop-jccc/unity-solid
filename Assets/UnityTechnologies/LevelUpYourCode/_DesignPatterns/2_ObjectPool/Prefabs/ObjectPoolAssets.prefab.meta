@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ebb82d1d7f5a2143a023b1548787a9b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/2_ObjectPool/Prefabs/ObjectPoolAssets.prefab
+  uploadId: 678909

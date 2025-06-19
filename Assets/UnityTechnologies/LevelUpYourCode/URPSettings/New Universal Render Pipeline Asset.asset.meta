@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf887a151f0efc8489acf6ec1750af6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/URPSettings/New Universal Render
+    Pipeline Asset.asset
+  uploadId: 678909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9318f7b6ff59e5b45b73c9ef6ee1c303
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/ButtonData/ResourcesMenu/4-4_QuizU_Data.asset
+  uploadId: 678909

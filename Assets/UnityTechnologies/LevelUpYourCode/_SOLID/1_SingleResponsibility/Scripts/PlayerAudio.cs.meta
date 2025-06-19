@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a4057ea79a8543b09dba6e78627de7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/1_SingleResponsibility/Scripts/PlayerAudio.cs
+  uploadId: 678909

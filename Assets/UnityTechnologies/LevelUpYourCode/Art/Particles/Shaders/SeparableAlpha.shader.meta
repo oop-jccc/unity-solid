@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11e510dace8c9fe4a9eaf82a3584c5c8
+timeCreated: 1444659490
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Particles/Shaders/SeparableAlpha.shader
+  uploadId: 678909

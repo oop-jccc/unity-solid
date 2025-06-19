@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b91a41eb6936a524080341a0d76b63e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP/Prefabs/View.prefab
+  uploadId: 678909

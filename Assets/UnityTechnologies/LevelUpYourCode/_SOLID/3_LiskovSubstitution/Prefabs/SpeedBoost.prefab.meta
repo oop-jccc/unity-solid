@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10a4bb3940b4da049aec223cde887c7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Prefabs/SpeedBoost.prefab
+  uploadId: 678909

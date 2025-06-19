@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe2d1e0bb5838da4692d28eaab1d6071
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP/Prefabs/HealthSlider.prefab
+  uploadId: 678909

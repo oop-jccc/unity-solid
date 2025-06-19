@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c3befe153eaf42fb99f4d1c52693bd9d
+timeCreated: 1662936708
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/StateMachine/Interfaces/IState.cs
+  uploadId: 678909

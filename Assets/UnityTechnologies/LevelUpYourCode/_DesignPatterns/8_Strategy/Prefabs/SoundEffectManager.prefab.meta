@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c93484dd909537499e3d6d93a4c3849
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/8_Strategy/Prefabs/SoundEffectManager.prefab
+  uploadId: 678909

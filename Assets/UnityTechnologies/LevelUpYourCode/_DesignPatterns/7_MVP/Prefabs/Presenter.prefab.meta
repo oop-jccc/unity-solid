@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f7abdc0a9ee01b479fa861b706cbb38
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP/Prefabs/Presenter.prefab
+  uploadId: 678909

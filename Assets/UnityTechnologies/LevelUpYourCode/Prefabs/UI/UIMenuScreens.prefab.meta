@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6480f6c01d1831c4f8d36e77a8a807d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Prefabs/UI/UIMenuScreens.prefab
+  uploadId: 678909

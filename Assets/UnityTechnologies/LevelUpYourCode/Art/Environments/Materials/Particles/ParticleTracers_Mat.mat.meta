@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82eb13ab3a29a5947aa0ed845c079900
+timeCreated: 1441207323
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/Particles/ParticleTracers_Mat.mat
+  uploadId: 678909

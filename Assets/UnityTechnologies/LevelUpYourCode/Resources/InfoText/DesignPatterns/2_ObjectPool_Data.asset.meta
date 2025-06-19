@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f920ed8ec9cab6447952e1add786ad4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/InfoText/DesignPatterns/2_ObjectPool_Data.asset
+  uploadId: 678909

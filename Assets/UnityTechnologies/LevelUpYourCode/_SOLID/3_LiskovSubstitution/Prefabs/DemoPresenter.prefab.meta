@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3e88f1a42265f44482da66b298c275e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Prefabs/DemoPresenter.prefab
+  uploadId: 678909

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86d59d8c9e95b45149ab0bbfcd3219e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/1_Factory/Scripts/ExampleUsage/ClickToCreate.cs
+  uploadId: 678909

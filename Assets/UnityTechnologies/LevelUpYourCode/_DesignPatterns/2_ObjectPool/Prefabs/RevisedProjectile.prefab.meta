@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24f8ba5415ab545638a1e9afdd752d16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/2_ObjectPool/Prefabs/RevisedProjectile.prefab
+  uploadId: 678909

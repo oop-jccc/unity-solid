@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 809e3ffedb01fd64f9057b76e7283f1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/Prefabs/EventSystem.prefab
+  uploadId: 678909

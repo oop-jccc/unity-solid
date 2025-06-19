@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc946da0d1ce4c14fa5e04e84fec6977
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/4_Command/Prefabs/CommandAssets.prefab
+  uploadId: 678909

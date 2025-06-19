@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e0dd368f06fedf4cb25ab18989f03da
+timeCreated: 1440253757
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/Maze/MazeBg_Mat.mat
+  uploadId: 678909

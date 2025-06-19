@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87d0cdcc6b4f9e84c82bf0b7dd0e9097
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/4_Command/Prefabs/Directional
+    Light.prefab
+  uploadId: 678909

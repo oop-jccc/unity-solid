@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8573c84d578cc1a4aab3be75871ba6c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/EventMessages/DesignPatterns/3-4_CommandSceneLoaded_Event.asset
+  uploadId: 678909

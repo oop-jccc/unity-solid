@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea02b5c86419ce743b2ee8160412eb06
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/10_DirtyFlag/Prefabs/Unused/Sector1-3.prefab
+  uploadId: 678909

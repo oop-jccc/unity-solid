@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2db3ad7aad00654da719023691aeb35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/4_InterfaceSegregation/Scripts/MouseToWorldPosition.cs
+  uploadId: 678909

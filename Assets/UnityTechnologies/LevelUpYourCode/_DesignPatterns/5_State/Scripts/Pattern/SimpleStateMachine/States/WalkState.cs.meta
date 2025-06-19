@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e07c902e74ad140b6adcb7b311520cf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/5_State/Scripts/Pattern/SimpleStateMachine/States/WalkState.cs
+  uploadId: 678909

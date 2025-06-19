@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c598e69560bb44a76b0ecad45929b0c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/2_OpenClosed/Scripts/CircleEffect.cs
+  uploadId: 678909

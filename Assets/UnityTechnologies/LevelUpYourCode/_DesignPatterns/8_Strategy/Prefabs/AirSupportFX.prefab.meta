@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64801e4e2c7a2c648b705632ffc00c22
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/8_Strategy/Prefabs/AirSupportFX.prefab
+  uploadId: 678909

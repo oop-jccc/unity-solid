@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc4347574b823934ba11785e25895920
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Particles/Shaders/PriorityParticleAlpha.shader
+  uploadId: 678909

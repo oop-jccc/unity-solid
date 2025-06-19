@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9055a6b835e8910408ba78a67381fdf5
+timeCreated: 1443714004
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/Maze/MazePowerConsole_Mat.mat
+  uploadId: 678909

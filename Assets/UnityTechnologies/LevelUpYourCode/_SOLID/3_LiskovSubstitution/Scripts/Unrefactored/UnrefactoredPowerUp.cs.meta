@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 826b4f8eacaa4e9881ff29ac85ddb58d
+timeCreated: 1709683405
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Scripts/Unrefactored/UnrefactoredPowerUp.cs
+  uploadId: 678909

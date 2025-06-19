@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b0e77fc7bd9b44209fb3b950ec15352c
+timeCreated: 1663027143
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/StateMachine/Links/Link.cs
+  uploadId: 678909

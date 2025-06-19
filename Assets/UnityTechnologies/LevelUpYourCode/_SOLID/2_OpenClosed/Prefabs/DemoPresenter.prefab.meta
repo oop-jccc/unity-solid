@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 340509462cc20d9498324320a5b4dcf2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/2_OpenClosed/Prefabs/DemoPresenter.prefab
+  uploadId: 678909

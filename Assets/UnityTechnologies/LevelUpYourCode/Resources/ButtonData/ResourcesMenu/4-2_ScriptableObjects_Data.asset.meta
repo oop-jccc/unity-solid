@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3aec459402acde43a62e5490acfd0a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/ButtonData/ResourcesMenu/4-2_ScriptableObjects_Data.asset
+  uploadId: 678909

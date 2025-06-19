@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e14899d348c1be240a692c183c79c8c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/EventMessages/Solid/2-4_InterfaceSegregationSceneLoaded_Event.asset
+  uploadId: 678909

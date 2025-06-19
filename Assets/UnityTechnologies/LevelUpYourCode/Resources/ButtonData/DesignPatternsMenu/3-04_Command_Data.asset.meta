@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acc3b584c96a42c498b7c1c3b357519c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Resources/ButtonData/DesignPatternsMenu/3-04_Command_Data.asset
+  uploadId: 678909

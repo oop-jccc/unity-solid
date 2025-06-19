@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b080ab6551eade4ea818132693fe2db
+timeCreated: 1441564877
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/BlueUnlit_Mat.mat
+  uploadId: 678909

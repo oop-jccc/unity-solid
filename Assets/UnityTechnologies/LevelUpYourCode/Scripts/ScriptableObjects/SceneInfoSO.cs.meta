@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a81c968cf0da864cbbf71df6dfd011c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Scripts/ScriptableObjects/SceneInfoSO.cs
+  uploadId: 678909

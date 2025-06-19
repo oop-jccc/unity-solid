@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c5f99b647c927c4586a23bf45428002
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/7_MVP_UIToolkit/MVP_UIToolkit.unity
+  uploadId: 678909

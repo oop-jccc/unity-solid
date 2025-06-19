@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ec18febd6d55464383b1c9d69b728211
+timeCreated: 1709681863
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/3_LiskovSubstitution/Scripts/PowerUps/SpeedBoost.cs
+  uploadId: 678909

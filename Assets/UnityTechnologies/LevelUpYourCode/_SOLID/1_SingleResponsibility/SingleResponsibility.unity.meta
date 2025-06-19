@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e4cc0578c67652468036d32e02e7c5c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_SOLID/1_SingleResponsibility/SingleResponsibility.unity
+  uploadId: 678909

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43252bf20bf06bd49b7ed3934ce30855
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/_DesignPatterns/10_DirtyFlag/SubScenes/Sector3-3.unity
+  uploadId: 678909

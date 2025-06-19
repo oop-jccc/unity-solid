@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1331fff4b797e934f9dda03e8801d6e0
+timeCreated: 1439543406
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Materials/ExamplesDarkBlue_Mat.mat
+  uploadId: 678909

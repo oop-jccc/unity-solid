@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c47f9ceac6a2b514d97d2021879a2d65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289616
+  packageName: Level up your code with design patterns and SOLID
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/LevelUpYourCode/Art/Environments/Prefabs/StateAssets.prefab
+  uploadId: 678909
