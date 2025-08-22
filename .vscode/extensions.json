@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "septag.visual-assist-dark",
+    "jeff-hykin.better-c-sharp-syntax",
+    "icsharpcode.ilspy-vscode",
+    "patcx.vscode-nuget-gallery",
+    "ryanluker.vscode-coverage-gutters",
+    "humao.rest-client"
+  ]
+}
